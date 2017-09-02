@@ -5,6 +5,7 @@ Revamped and updated version of an old project from Intel to showcase RenderScri
 All the credits for the original implementation to https://software.intel.com/en-us/articles/tutorial-camera-video-stream-processing-with-renderscript
 
 The original project and code was not compiling/working under AndoidStudio.
+Please manually grant camera permission in M+
 
 
 Click here for the video!
