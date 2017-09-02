@@ -8,8 +8,7 @@ The original project and code was not compiling/working under AndoidStudio.
 
 
 Click here for the video!
-![video](https://user-images.githubusercontent.com/87620/29997265-bd1785da-9006-11e7-8a6c-de4bf658f10d.png)
- 
+[![example video](https://user-images.githubusercontent.com/87620/29997265-bd1785da-9006-11e7-8a6c-de4bf658f10d.png)](https://www.youtube.com/watch?v=24_F8ZqnMVQ&feature=youtu.be "example video link")
 
 The project contains a custom renderscript transformation.
  
